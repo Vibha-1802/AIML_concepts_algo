@@ -9,10 +9,9 @@ The repository also includes sample **datasets (.csv)** used for training and te
 
 ## 📌 **Table of Contents**
 
-* [Overview](#overview)
-* [Algorithms Implemented](#algorithms-implemented)
-* [How to Run the Notebooks](#how-to-run-the-notebooks)
-* [Datasets](#datasets)
+* [Overview](#Overview)
+* [Algorithms Implemented](#Algorithms-Implemented)
+* [Datasets Included](#Datasets-Included)
 
 ---
 
@@ -69,7 +68,9 @@ Each notebook has its own dataset:
 
 **Important:**
 You do **not** need absolute paths like
+
 `C:/Users/<username>/...`
+
 Use **relative paths** instead:
 
 ```python
