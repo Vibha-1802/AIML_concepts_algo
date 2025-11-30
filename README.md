@@ -7,14 +7,6 @@ The repository also includes sample **datasets (.csv)** used for training and te
 
 ---
 
-## 📌 **Table of Contents**
-
-* [Overview](#Overview)
-* [Algorithms Implemented](#Algorithms-Implemented)
-* [Datasets Included](#Datasets-Included)
-
----
-
 ## 🧠 **Overview**
 
 This repo is a consolidated set of important **AI/ML algorithms**, including:
@@ -64,7 +56,6 @@ Each notebook has its own dataset:
 | `FIND-S.csv`                              | FIND-S                  |
 | `HCC.csv`                                 | Hierarchical Clustering |
 | `KNN.csv`                                 | KNN                     |
-| `simple_Linear_Regression.csv` *(if any)* | Linear Regression       |
 
 **Important:**
 You do **not** need absolute paths like
