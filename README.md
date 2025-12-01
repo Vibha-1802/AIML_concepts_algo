@@ -14,10 +14,8 @@ This repo is a consolidated set of important **AI/ML algorithms**, including:
 * Basic learning algorithms
 * Classification & regression
 * Clustering
-* Bayesian networks
 * Candidate elimination
 * Decision trees
-* Backpropagation
 * EM algorithm
 * K-Means
 * Hierarchical clustering
